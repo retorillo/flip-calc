@@ -21,7 +21,7 @@ for (const arg of opt.$) {
     console.log(`${arg} => ${(w / 2) - offset}`);
   }
   catch (e) {
-    console.log('abc');
+    console.log(`${arg} => NaN`);
   }
 }
 
