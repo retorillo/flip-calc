@@ -1,0 +1,11 @@
+{
+  "name": "flip-calc",
+  "version": "1.0.1",
+  "description": "Minimal calculator to determine x-coordinates on horizontal flipping.",
+  "bin": {
+    "flip-calc": "bin/cli.js"
+  },
+  "dependencies": {
+    "gnu-option": "^1.0.1"
+  }
+}
