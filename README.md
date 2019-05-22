@@ -6,7 +6,7 @@ Of course, if assumes width is height, usable for vertical flip.
 ## Install
 
 ```bash
-npm insatll -g https://github.com/retorillo/flip-calc.git
+npm install -g https://github.com/retorillo/flip-calc.git
 ```
 
 ## Usage
